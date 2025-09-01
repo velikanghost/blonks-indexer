@@ -35,4 +35,3 @@ logs
 *.gen.ts
 build
 .env
-abi.json
